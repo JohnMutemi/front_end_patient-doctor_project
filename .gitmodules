@@ -1,4 +1,5 @@
 [submodule "client"]
     path = client
-    url = git@github.com:JohnMutemi/front_end_patient-doctor_project.git
+    url = https://github.com/JohnMutemi/front_end_patient-doctor_project.git
+
 
